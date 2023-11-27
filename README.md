@@ -9,15 +9,15 @@
 
 ## Tabla de contenidos
 * **Bloque (I)**
-    * **Iniciación en análisis de datos con Python**
+    * Iniciación en análisis de datos con Python
 * **Bloque (II)**
-    * **Modelos de regresión en Machine Learning con Python**
+    * Modelos de regresión en Machine Learning con Python
 * **Bloque (III)**
-    * **Modelos de clasificación en Machine Learning con Python**
+    * Modelos de clasificación en Machine Learning con Python
 * **Bloque (IV)**
-    * **Modelos de clustering en Machine Learning con Python**
+    * Modelos de clustering en Machine Learning con Python
 * **Bloque (V)**
-    * **Análisis de series temporales con Python**
+    * Análisis de series temporales con Python
 
 ## Autor
 Elías Nezamoleslami
