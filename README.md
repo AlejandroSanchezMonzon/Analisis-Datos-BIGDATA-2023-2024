@@ -19,5 +19,5 @@
 * **Bloque (V)**
     * Análisis de series temporales con Python
 
-## Autor
-Elías Nezamoleslami
+> [!NOTE] 
+> Autor: Elías Nezamoleslami
