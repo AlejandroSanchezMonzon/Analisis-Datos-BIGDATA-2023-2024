@@ -3,7 +3,7 @@
 ---
 
 # Análisis de datos en el ecosistema Python 2023-2024
-> **Programa BIGDATA+ | Análisis de Datos y Procesos** 
+> **Programa BIGDATA+ | Análisis de Datos y Procesos**
 >
 > Cámara de Comercio Alemana para España
 
@@ -19,5 +19,5 @@
 * **Bloque (V)**
     * Análisis de series temporales con Python
 
-> [!NOTE] 
-> Autor: Elías Nezamoleslami
+> [!NOTE]
+> Todos estos ejercicios son explicaciones de mi profesor: **Elías Nezamoleslami**
