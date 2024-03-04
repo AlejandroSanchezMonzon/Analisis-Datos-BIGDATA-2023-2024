@@ -19,5 +19,10 @@
 * **Bloque (V)**
     * Análisis de series temporales con Python
 
+* **Proyecto Final**
+    * Memoria
+    * Presentación de código
+
+
 > [!NOTE]
 > Todos estos ejercicios son explicaciones de mi profesor: **Elías Nezamoleslami**
